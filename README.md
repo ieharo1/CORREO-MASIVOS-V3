@@ -1,4 +1,4 @@
-# 🚀 Sistema de Correos Masivos HIGH-PERFORMANCE v0.0.3
+# 🚀 Sistema de Correos Masivos HIGH-PERFORMANCE V0.0.3
 
 Sistema de envío de correos masivos de alto rendimiento con procesamiento paralelo, rate limiting inteligente y optimización extrema. Desarrollado por **Isaac Esteban Haro Torres**.
 
