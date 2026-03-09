@@ -188,12 +188,6 @@ Correos_Masivos_v0.0.3/
 | Multi-cuenta SMTP | ❌ | ❌ | ✅ |
 | Resume capability | ❌ | ❌ | ✅ |
 
----
-
-## 🤝 Contribuciones
-
-¿Agregaste nuevas técnicas de optimización?
-¡Abre un Pull Request!
 
 ---
 
